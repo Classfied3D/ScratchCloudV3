@@ -4,7 +4,7 @@ A [python](https://www.python.com) interface for using [scratch](https://scratch
 
 Created by [@Classfied3D](https://scratch.mit.edu/users/Classfied3D) and [@PikachuB2005](https://scratch.mit.edu/users/PikachuB2005)
 ## Getting Started
-For ScratchCloud to work, I recommend using a site such as [repl.it](https://replit.com) , 
+For ScratchCloud to work, I recommend using a site such as [repl.it](https://replit.com), 
 It works offline as well, but you need to have node.js and npm installed
 
 To start, use the code from [here](https://replit.com/@Classfied3D/scratchcloud-V3) to create a module in the same directory as your program.
