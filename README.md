@@ -14,7 +14,7 @@ Then, you must login to your scratch account with your project ID:
 import scratchcloud
 cloud = scratchcloud.CloudSession(12345678, 'Username', 'password')
 ```
-I recommend that, intead of using your scratch password in the code as all free repls are public, put it in a .env file in the same directory as your main code like this:
+I recommend that, intead of putting your scratch password in the code, as all free repls are public, put it in a .env file in the same directory as your main code like this:
 ### The .env file:
 ```
 password=thisismypassword
