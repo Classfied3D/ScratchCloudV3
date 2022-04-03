@@ -1,4 +1,6 @@
-#  **scratchcloud V3**
+#  **ScratchCloud V3**
+
+> *This module is outdated, please use the newer [ScratchCloud V4](https://github.com/Classfied3D/ScratchCloudV4)*
 
 A [python](https://www.python.com) interface for using [scratch](https://scratch.mit.edu) cloud variables
 
